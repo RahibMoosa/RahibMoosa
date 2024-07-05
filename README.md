@@ -1,7 +1,6 @@
-![logo](https://img.freepik.com/premium-vector/blue-eye-cyber-circuit-future-technology-concept-background_42077-2904.jpg?w=740)
+![logo](https://github.com/RahibMoosa/RahibMoosa/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner_20240705_200922_0000.png)
 <h1 align="center">Hi 👋, I'm Moosa Rahib</h1>
 <h3 align="center">A passionate software from India</h3>
-<img align="right" alt="codingimage" width="400" src="https://img.freepik.com/premium-vector/blue-eye-cyber-circuit-future-technology-concept-background_42077-2904.jpg?w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moosarahib&label=Profile%20views&color=0e75b6&style=flat" alt="moosarahib" /> </p>
 
 - 🌱 I’m currently learning **Spring, Spring Boot**
